@@ -23,11 +23,14 @@ This project is a beginner-friendly PHP toolkit created using Generative AI to h
 
 ##  Project Structure
 php-beginner-toolkit/
+
 ├── README.md
 ├── prompts-journal.md
 ├── docs/
+
 │ └── GUIDE.md
 ├── example-app/
+
 │ ├── index.php
 │ ├── form.php
 │ └── process.php
@@ -54,4 +57,5 @@ AI was used to learn PHP concepts, troubleshoot errors, scaffold the project, an
 
 # Author
 caleb kimutai
+
 Moringa School – AI Capstone Project
