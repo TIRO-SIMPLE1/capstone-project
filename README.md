@@ -26,9 +26,11 @@ php-beginner-toolkit/
 
 ├── README.md
 ├── prompts-journal.md
+
 ├── docs/
 
 │ └── GUIDE.md
+
 ├── example-app/
 
 │ ├── index.php
@@ -59,3 +61,4 @@ AI was used to learn PHP concepts, troubleshoot errors, scaffold the project, an
 caleb kimutai
 
 Moringa School – AI Capstone Project
+
